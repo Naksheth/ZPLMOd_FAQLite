@@ -15,3 +15,10 @@ Easy to use and customize the design, color, font size etc to match your theme.<
 Easy shortcode to use.<br/>
 Fully compatible with all mordern and old responsive designs.<br/>
 Custom sorting options for FAQs.<br/>
+
+<p> ● Requirements<br/>
+• At least: PHP 5.2<br/>
+• At least: WordPress 3.6<br/>
+• Tested up to: WordPress 4.8.0<br/>
+• Current version: ZPLMOd - FAQLite 1.0.20170713<br/>
+<p/> 
