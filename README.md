@@ -5,7 +5,7 @@
 #
 [![License](https://poser.pugx.org/yoast/wordpress-seo/license.svg)](https://github.com/Naksheth/ZPLMOd_FAQLite)
 
-## ZPLMOd - FAQ.Lite ##
+## ZPLMOd - FAQ.Lite - v1.0.20170724 ## 
 A Wordpress Plugin : FAQ.Lite, it easy for you to FAQs on your site add using shortcode, Fully compatible with all responsive themes and reduce database calls. 
 FAQ custom design options, Options to customize the look and feel of the FAQs to match your theme style. 
 Adding a Frequently Asked Questions (FAQs) section to your website, either as a full page or even just as a sidebar widget using shortcode, can be a crucial tool to help your customers get the answers they need, fast. Asked Questions can be a one-stop-shop for staff, users, and anyone else who may need answers. 
@@ -55,9 +55,7 @@ Content Text Here
 ### Installation ###
 1. Upload the 'zplmod-faq-lite' folder to the '/wp-content/plugins/' directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
-
-or
-
+			or
 1. Go to the 'Plugins' menu in WordPress and click 'Add New'
 2. Search for 'ZPLMOd FAQ Lite' and select 'Install Now'
 3. Activate the plugin when prompted
