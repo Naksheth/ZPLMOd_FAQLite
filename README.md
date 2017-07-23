@@ -18,6 +18,8 @@ A well written Frequently Asked Questions page can give users the answers they n
 * Fully compatible with all mordern and old responsive designs
 * Tab or Tabs style can be changed specify one  
 
+</br>
+<a href="https://github.com/Naksheth/ZPLMOd_FAQLite/blob/master/download/zplmod-faq-lite.1724.zip">Download ZPLMOd - FAQ.Lite v1.7.24</a></br>
 
 ### Screenshots ###
 ![Admin Menu](https://github.com/Naksheth/ZPLMOd_FAQLite/blob/master/assets/screenshot-1.png?raw=true)
