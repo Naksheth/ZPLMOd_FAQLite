@@ -49,7 +49,7 @@ Content Text Here
  * At least: PHP 5.2
  * At least: WordPress 3.6
  * Tested up to: WordPress 4.8.0
- * Current version: ZPLMOd - XXXX 1.0.20170724
+ * Current version: ZPLMOd - FAQ.Lite 1.0.20170724
 
 
 ### Installation ###
